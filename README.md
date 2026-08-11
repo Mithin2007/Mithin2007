@@ -99,7 +99,7 @@ Helping students discover skills, get personalized career roadmaps, build projec
 <b>Stack:</b> React • Node.js • Express • MongoDB • JWT
 </font>
 
-<div align="center"><br><a href="https://skillsyncx.vercel.app"><b>LIVE PROJECT ↗</b></a></div>
+<div align="center"><br><a href="https://skillsyncx.invenzoai.in"><b>LIVE PROJECT ↗</b></a></div>
 
 </td>
 
@@ -137,7 +137,7 @@ AI-powered placement preparation platform with resume building, aptitude tests a
 <b>Stack:</b> React • Node.js • JavaScript • Python
 </font>
 
-<div align="center"><br><a href="https://trivioo.vercel.app"><b>LIVE PROJECT ↗</b></a></div>
+<div align="center"><br><a href="https://trivioo.invenzoai.in"><b>LIVE PROJECT ↗</b></a></div>
 
 </td>
 
