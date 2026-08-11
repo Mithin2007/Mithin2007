@@ -1,86 +1,122 @@
+<!-- ========================================================= -->
+<!--              MITHIN KRISHNA — GITHUB PROFILE              -->
+<!-- ========================================================= -->
+
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050505,45:15120A,70:C9A227,100:050505&text=MITHIN%20KRISHNA&fontSize=54&fontColor=FFFFFF&fontAlignY=38&desc=AI%20BUILDER%20%7C%20FULL-STACK%20DEVELOPER%20%7C%20FOUNDER&descSize=17&descAlignY=61&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,45:ffffff,70:ed1c24,100:b71c1c&height=220&section=header&text=MITHIN%20KRISHNA&fontSize=55&fontColor=151515&animation=fadeIn&fontAlignY=38&desc=AI%20BUILDER%20%7C%20FULL-STACK%20DEVELOPER%20%7C%20FOUNDER&descAlignY=62&descSize=18&descColor=444444"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1200&color=C9A227&center=true&vCenter=true&width=800&lines=Building+real-world+AI+products;Engineering+ideas+into+working+systems;Exploring+LLMs%2C+RAG+%26+AI+Agents;Founder+%40+Invenzo+AI+Solutions;Build.+Learn.+Ship.+Repeat."/>
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=900&color=ED1C24&center=true&vCenter=true&width=800&lines=YOUR+FRIENDLY+NEIGHBOURHOOD+DEVELOPER+%F0%9F%95%B7%EF%B8%8F;Building+AI-powered+products;Turning+ideas+into+real+software;AI+%E2%80%A2+LLMs+%E2%80%A2+Agents+%E2%80%A2+Automation;Founder+%40+Invenzo+AI+Solutions"/>
+
+<br><br>
+
+<img src="https://img.shields.io/badge/AI%20BUILDER-ED1C24?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/FULL--STACK-111111?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+<img src="https://img.shields.io/badge/FOUNDER-ED1C24?style=for-the-badge&logo=rocket&logoColor=white"/>
 
 </div>
 
-<br>
+---
 
-<!-- ========================= -->
-<!--       IDENTITY             -->
-<!-- ========================= -->
+<div align="center">
+
+## 🕷️ YOUR FRIENDLY NEIGHBOURHOOD DEVELOPER
+
+<img src="./assets/spiderman.png" width="300"/>
+
+### Building software with the mindset of a friendly neighbourhood developer.
+
+</div>
+
+---
+
+## 🕸️ MITHIN // THE PERSON BEHIND THE CODE
 
 <table>
 <tr>
 
-<td width="42%" align="center">
+<td width="38%" align="center">
 
-<img src="./assets/spiderman.gif" width="330">
+<img src="./assets/spiderman.png" width="280"/>
 
 <br><br>
 
-<sub><b>BUILDING BEYOND THE ORDINARY</b></sub>
+### 🕷️ YOUR FRIENDLY
+### NEIGHBOURHOOD
+### DEVELOPER
+
+<br>
+
+`BUILD • BREAK • LEARN • REBUILD`
 
 </td>
 
-<td width="58%">
+<td width="62%">
 
-# MITHIN // AI BUILDER
+# 👋 Hey, I'm Mithin Krishna
 
-### 👋 Hey, I'm Mithin Krishna.
+I'm a **Computer Science & Engineering student** who enjoys turning ideas into practical software.
 
-I'm a **Computer Science & Engineering student** focused on building practical software, AI-powered products and automation systems.
+I'm particularly interested in:
+
+- 🤖 Artificial Intelligence
+- 🧠 Large Language Models
+- 🕷️ AI Agents
+- 🔎 RAG Systems
+- ⚙️ Intelligent Automation
+- 🌐 Full-Stack Development
+- 🚀 Product Engineering
+- 💡 Startup Building
 
 I don't want to learn technology just for the sake of knowing it.
 
-I want to understand it well enough to **turn an idea into something people can actually use.**
+**I want to understand it well enough to turn an idea into something people can actually use.**
 
-<br>
+### 🎓 Currently
 
-**Currently building around**
+**BE Computer Science & Engineering**
 
-`Artificial Intelligence` · `LLMs` · `AI Agents` · `RAG` · `Automation` · `Full-Stack Development`
+### 🚀 Founder
 
-<br>
+**Invenzo AI Solutions**
 
-**Founder**
+### 🧠 Current Direction
 
-[Invenzo AI Solutions](https://invenzoai.in)
+**AI × Software × Automation × Product Engineering**
 
 </td>
 
 </tr>
 </table>
 
-<br>
-
 ---
 
-# THE PERSON BEHIND THE CODE
-
-> **I don't just want to learn technology.**
->
-> **I want to build something meaningful with it.**
-
-My journey started with learning the fundamentals of programming and web development.
-
-That gradually turned into building complete applications, experimenting with AI and automation, and eventually working on products designed around real-world problems.
-
-Today, my focus is on becoming an engineer who can move from:
+# 🕷️ MITHIN // SYSTEM PROFILE
 
 ```text
-PROBLEM
-   ↓
-IDEA
-   ↓
-PROTOTYPE
-   ↓
-ENGINEERING
-   ↓
-AI / AUTOMATION
-   ↓
-REAL PRODUCT
+╔══════════════════════════════════════════════════════════════╗
+║                    MITHIN // SYSTEM PROFILE                  ║
+╠══════════════════════════════════════════════════════════════╣
+║                                                              ║
+║  NAME       →  Mithin Krishna                                ║
+║  ROLE       →  AI Builder / Full-Stack Developer             ║
+║  EDUCATION  →  Computer Science & Engineering                ║
+║  GRADUATION →  2028                                          ║
+║                                                              ║
+║  COMPANY    →  Invenzo AI Solutions                           ║
+║  STATUS     →  BUILDING                                      ║
+║                                                              ║
+║  SPECIALITY →  AI • LLMs • Agents • Automation               ║
+║                                                              ║
+║  CURRENTLY EXPLORING                                          ║
+║  ├── Artificial Intelligence                                 ║
+║  ├── Large Language Models                                   ║
+║  ├── AI Agents                                               ║
+║  ├── RAG Systems                                             ║
+║  ├── Intelligent Automation                                  ║
+║  ├── Full-Stack Engineering                                  ║
+║  └── Product Development                                     ║
+║                                                              ║
+╚══════════════════════════════════════════════════════════════╝
