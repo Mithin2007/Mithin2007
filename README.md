@@ -272,7 +272,7 @@ I want to build things that solve real problems, feel useful, and make people sa
 <td align="center"><a href="https://invenzoai.in"><b>Invenzo AI</b><br>invenzoai.in</a></td>
 <td align="center"><a href="https://skillsyncx.vercel.app"><b>SkillSyncX</b><br>skillsyncx.vercel.app</a></td>
 <td align="center"><a href="https://trivioo.vercel.app"><b>Trivio</b><br>trivioo.vercel.app</a></td>
-<td align="center" bgcolor="#E50914"><a href="https://www.linkedin.com"><font color="#FFFFFF"><b>LinkedIn</b><br>Connect with me</font></a></td>
+<td align="center" bgcolor="#E50914"><a href="https://www.linkedin.com/in/mithin-krishna-ns/"><font color="#FFFFFF"><b>LinkedIn</b><br>Connect with me</font></a></td>
 </tr>
 </table>
 
